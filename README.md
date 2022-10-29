@@ -36,10 +36,14 @@ Working of the website :
 
 Features:
 1. Login Option 
+![image](https://user-images.githubusercontent.com/114986701/198821322-65282b03-ef95-4e8e-b9cf-b218bc24d0df.png)
 
 
 
+2. Register Option
+![image](https://user-images.githubusercontent.com/114986701/198821336-6275a550-dc61-44d5-a4b9-dcdb73b8b113.png)
 
-2. Register Option 
-3.
-4.
+
+
+3. Forgot Password Option  ( Password recovery )
+![image](https://user-images.githubusercontent.com/114986701/198821357-b0d0689a-06c2-4d8f-ae20-3f66cc5d6eb6.png)
