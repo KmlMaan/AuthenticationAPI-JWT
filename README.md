@@ -66,3 +66,7 @@ Features:
 
 3. Forgot Password Option  ( Password recovery )
 ![image](https://user-images.githubusercontent.com/114986701/198821357-b0d0689a-06c2-4d8f-ae20-3f66cc5d6eb6.png)
+
+
+4.LogOut option
+![image](https://user-images.githubusercontent.com/114986701/198821804-d3436e7e-380a-46cc-a17d-5716667d1a6e.png)
