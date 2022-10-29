@@ -1,5 +1,6 @@
 # AuthenticationAPI-JWT
 
+(note: you will be getting mail from "nodejsa@gmail.com" , so please check in all the areas of the gamil[spam,promotion,updates etc.] )
 Prerequisites :
 NodeJS
 Mongo DB
